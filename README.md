@@ -60,4 +60,5 @@ Increased engagement with sustainability initiatives
 
 ### 🖼️ Sample Outputs & Workflow
 
-![Uploading AI_Climate_Awareness_Assistant_Project_Report.png…]()
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/14dae295-88d8-4e66-90da-938986e0cdf6" />
+
