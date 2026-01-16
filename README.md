@@ -62,3 +62,6 @@ Increased engagement with sustainability initiatives
 
 <img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/14dae295-88d8-4e66-90da-938986e0cdf6" />
 
+### 🏁 Conclusion
+
+The project demonstrates how AI can be responsibly applied to sustainability challenges by making climate knowledge more accessible, engaging, and actionable for users.
