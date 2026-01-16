@@ -14,14 +14,50 @@ This project aims to bridge this gap by providing a conversational AI interface 
 
 ### 💡 Solution Description
 
--The proposed solution is a conversational AI assistant that:
+- The proposed solution is a conversational AI assistant that:
 
--Interacts with users using natural language
+- Interacts with users using natural language
 
--Provides climate awareness insights
+- Provides climate awareness insights
 
--Guides users toward sustainable choices
+- Guides users toward sustainable choices
 
--Encourages responsible environmental behavior
+- Encourages responsible environmental behavior
 
 The system follows an Agentic AI workflow where the AI understands intent, retrieves relevant climate knowledge (conceptually via RAG), and generates contextual responses aligned with Responsible AI principles.
+
+### 🧠 Technologies Used
+
+Prompt-based Conversational AI
+
+Natural Language Processing (NLP)
+
+Agentic AI Workflow (guided decision support)
+
+Conceptual Retrieval-Augmented Generation (RAG)
+
+Responsible AI Principles
+
+### 👥 Target Users
+
+Students and educators
+
+General public interested in climate awareness
+
+Sustainability advocates
+
+Communities seeking eco-friendly guidance
+
+### 📊 Anticipated Impact
+
+Improved climate awareness and understanding
+
+Encouragement of sustainable daily practices
+
+Simplified access to climate-related information
+
+Increased engagement with sustainability initiatives
+
+### 🖼️ Sample Outputs & Workflow
+
+![Uploading AI_Climate_Awareness_Assistant_Project_Report.png…]()
